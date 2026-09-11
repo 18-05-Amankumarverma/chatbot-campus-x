@@ -1,0 +1,3 @@
+-- The canonical Smart Campus database definition is prisma/schema.prisma.
+-- Apply it with: npm run db:push
+-- This file is retained only for backwards-compatible file paths.
